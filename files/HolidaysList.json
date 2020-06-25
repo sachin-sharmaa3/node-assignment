@@ -1,0 +1,137 @@
+{
+    "public":{
+        
+            "january":[
+                {
+                    "day":"Monday",
+                    "date":"14",
+                    "reason":"Makar Sakranti"
+                },
+                {
+                    "day":"Saturday",
+                    "date":"26",
+                    "reason":"Republic day"
+                }
+            ],
+        
+            "march":[
+                {
+                    "day":"Thursday",
+                    "date":"21",
+                    "reason":"Holi"
+                }
+            ],
+        
+            "april":[
+                {
+                    "day":"Sunday",
+                    "date":"14",
+                    "reason":"Ram Navmi"
+                }
+            ],
+        
+            "august":[
+                {
+                    "day":"Thursday",
+                    "date":"15",
+                    "reason":"Independence Day"
+                },
+                {
+                    "day":"Saturday",
+                    "date":"24",
+                    "reason":"Janamashtami"
+                }
+            ],
+        
+            "october":[
+                {
+                    "day":"Wednesday",
+                    "date":"2",
+                    "reason":"Gandhi Jayanti"
+                },
+                {
+                    "day":"Tuesday",
+                    "date":"8",
+                    "reason":"Dussehra"
+                },
+                {
+                    "day":"Monday",
+                    "date":"28",
+                    "reason":"Diwali"
+                },
+                {
+                    "day":"Tuesday",
+                    "date":"29",
+                    "reason":"Bhai Dooj"
+                }
+            ],
+       
+            "december":[
+                {
+                    "day":"Wednesday",
+                    "date":"25",
+                    "reason":"Christmas"
+                }
+            ]
+        }
+    ,
+    "flexible":
+        {
+            "january":[
+                {
+                    "day":"Tuesday",
+                    "date":"1",
+                    "reason":"New Year's Day"
+                }
+            ],
+      
+            "march":[
+                {
+                    "day":"Monday",
+                    "date":"4",
+                    "reason":"Maha Shivratri"
+                }
+            ],
+       
+            "april":[
+                {
+                    "day":"Wednesday",
+                    "date":"19",
+                    "reason":"Good Friday"
+                }
+            ],
+        
+            "june":[
+                {
+                    "day":"Wednesday",
+                    "date":"5",
+                    "reason":"Idul Fitr"
+                }
+            ],
+       
+            "august":[
+                {
+                    "day":"Monday",
+                    "date":"12",
+                    "reason":"Bakrid"
+                }
+            ],
+       
+            "september":[
+                {
+                    "day":"Monday",
+                    "date":"2",
+                    "reason":"Ganesh Chaturthi"
+                }
+            ],
+        
+           "november":[
+                {
+                    "day":"Tuesday",
+                    "date":"12",
+                    "reason":"Guru Nanak Jayanti"
+                }
+            ]
+        
+    }
+}
